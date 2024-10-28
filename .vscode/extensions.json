@@ -1,0 +1,10 @@
+{
+    // 推荐的扩展插件
+    "recommendations": [
+        "editorconfig.editorconfig", // editorconfig
+        "dbaeumer.vscode-eslint", // eslint
+        "esbenp.prettier-vscode", // prettier
+        "dsznajder.es7-react-js-snippets", // react
+        "stylelint.vscode-stylelint", // stylelint
+    ]
+}

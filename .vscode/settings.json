@@ -1,0 +1,16 @@
+{
+    // 在保存时格式化文件
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnType": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.enable": true,
+    // 文件格式化配置
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    }
+  }
+  
